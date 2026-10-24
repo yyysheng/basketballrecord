@@ -94,5 +94,5 @@
 
 [旧球权驱动 Pro 备份](https://yyysheng.github.io/basketballrecord/pro/legacy-v0.3.html)保留原版功能和原存储键，供查看旧存档。当前 Pro 使用人工表格登记。
 
-- 页面文件：[`pro/index.html`](pro/index.html)、[`lite/index.html`](lite/index.html)。均为单文件页面，也可下载后在浏览器打开；本地文件与线上网站的存储不互通。
-- [`SPEC.md`](SPEC.md)、[`VERSION.txt`](VERSION.txt)、[`previews/`](previews/) 和 `test1` 标签保留早期测试资料，不代表 Pro V4.2 的完整功能说明。
+- 页面文件：[`pro/index.html`](https://github.com/yyysheng/basketballrecord/blob/basketballrecord/pro/index.html)、[`lite/index.html`](https://github.com/yyysheng/basketballrecord/blob/basketballrecord/lite/index.html)。均为单文件页面，也可下载后在浏览器打开；本地文件与线上网站的存储不互通。
+- [`SPEC.md`](https://github.com/yyysheng/basketballrecord/blob/basketballrecord/SPEC.md)、[`VERSION.txt`](https://github.com/yyysheng/basketballrecord/blob/basketballrecord/VERSION.txt)、[`previews/`](https://github.com/yyysheng/basketballrecord/tree/basketballrecord/previews) 和 `test1` 标签保留早期测试资料，不代表 Pro V4.2 的完整功能说明。
