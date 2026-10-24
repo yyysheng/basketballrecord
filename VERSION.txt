@@ -1,5 +1,7 @@
-CourtFlow V0.3.1
-测试1 / Test 1
-Branch: basketballrecord
-Tag: test1
-Status: Alpha interactive prototype
+CourtFlow
+Pro V4.2
+Lite v0.3
+Release branch: basketballrecord
+Deployment: GitHub Pages / (root)
+Entries: /basketballrecord/pro/ and /basketballrecord/lite/
+Historical prototype tag: test1 (CourtFlow V0.3.1; not the current product version)
